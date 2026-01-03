@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS mini_projet_anis_borchani CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
