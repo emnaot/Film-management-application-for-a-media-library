@@ -307,12 +307,6 @@ Modify the CSS variables in `resources/views/layouts/app.blade.php`:
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-**Emna Othmen**
-- GitHub: [@emnaot](https://github.com/emnaot)
-- Project: [Film Management Application](https://github.com/emnaot/Film-management-application-for-a-media-library)
-
 ## 🤝 Contributing
 
 1. Fork the repository
